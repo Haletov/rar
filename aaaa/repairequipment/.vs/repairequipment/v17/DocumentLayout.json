@@ -1,0 +1,798 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\migrations\\20241216194454_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\migrations\\20241216194454_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\requests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\data\\repairequipmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\data\\repairequipmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\employes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\employes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|c:\\users\\zigsa\\onedrive\\desktop\\aaaa\\repairequipment\\repairequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C5A7B3-7D1F-4B12-8823-2757D723DD5A}|repairequipment\\repairequipment.csproj|solutionrelative:repairequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:40:21.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Index.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Index.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Delete.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:53.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Delete.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Delete.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Details.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:53.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Details.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Details.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Edit.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:53.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Edit.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:53.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Client.cs",
+              "RelativeDocumentMoniker": "repairequipment\\models\\Client.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Client.cs",
+              "RelativeToolTip": "repairequipment\\models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:03:27.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Device.cs",
+              "RelativeDocumentMoniker": "repairequipment\\models\\Device.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Device.cs",
+              "RelativeToolTip": "repairequipment\\models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:02:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "repairequipment\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Employee.cs",
+              "RelativeToolTip": "repairequipment\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:06:36.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241216194454_initial.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Migrations\\20241216194454_initial.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Migrations\\20241216194454_initial.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Migrations\\20241216194454_initial.cs",
+              "RelativeToolTip": "repairequipment\\Migrations\\20241216194454_initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:44:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Request.cs",
+              "RelativeDocumentMoniker": "repairequipment\\models\\Request.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\models\\Request.cs",
+              "RelativeToolTip": "repairequipment\\models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:04:33.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Index.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:53.967Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Create.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:53.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Create.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Requests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Requests\\Create.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Requests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Index.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:28.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Index.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Index.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:28.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Delete.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:28.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Delete.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:28.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Details.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:28.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Details.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Details.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Edit.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Edit.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Create.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:39:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Create.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Employes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Employes\\Create.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Employes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:39:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Index.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:47.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "repairequipmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Data\\repairequipmentContext.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Data\\repairequipmentContext.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Data\\repairequipmentContext.cs",
+              "RelativeToolTip": "repairequipment\\Data\\repairequipmentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Index.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:35:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Delete.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Delete.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:35:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Details.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:47.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Details.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Details.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:35:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Edit.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:35:47.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Create.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Devices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Devices\\Create.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Devices\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:35:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Index.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:30.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Index.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:32:30.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Delete.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:30.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:32:30.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Details.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Details.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:32:30.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Edit.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:29.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:32:29.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:29.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "repairequipment\\Pages\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Pages\\Clients\\Create.cshtml",
+              "RelativeToolTip": "repairequipment\\Pages\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T19:32:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Program.cs",
+              "RelativeDocumentMoniker": "repairequipment\\Program.cs",
+              "ToolTip": "C:\\Users\\zigsa\\OneDrive\\Desktop\\aaaa\\repairequipment\\repairequipment\\Program.cs",
+              "RelativeToolTip": "repairequipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:32:29.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
